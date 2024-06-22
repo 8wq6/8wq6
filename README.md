@@ -1,5 +1,5 @@
 - he/him
-- html, js, css, angular
+- html, js, css, angular, bootstrap
 - 8wq6 in discord
 
 <!---
